@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1613aae5-5e09-4c3f-9eae-18c824101975" /><!doctype html>
+<!doctype html>
 <html lang="id">
 <head>
   <meta charset="utf-8" />
